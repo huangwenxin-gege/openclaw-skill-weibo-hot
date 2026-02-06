@@ -1,0 +1,9 @@
+{
+  "name": "weibo-hot",
+  "version": "0.1.0",
+  "description": "An OpenClaw skill to fetch weibo-hot trending topics.",
+  "author": "huangwenxin-gege",
+  "entrypoint": "scripts/get_hot.py",
+  "type": "python",
+  "repository": "https://github.com/huangwenxin-gege/openclaw-skill-weibo-hot"
+}
